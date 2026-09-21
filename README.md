@@ -4,9 +4,9 @@ Fork this repository once for your team and use the fork as the single record of
 
 ## Project information
 
-- **Project title:** [Replace with your project title]
-- **Team members:** [Replace with names]
-- **Repository URL:** [Replace with the URL of your team's fork]
+- **Project title:** Predicting Division I Men's Basketball Transfer Portal Starters
+- **Team members:** Aurea McIntosh, Zoe Edelblum, Evie McMahan
+- **Repository URL:** https://github.com/eviemcmahan/ds_3001_project_team_6
 
 ## Repository structure
 
