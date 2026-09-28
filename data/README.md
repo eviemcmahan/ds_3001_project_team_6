@@ -12,3 +12,8 @@ For any data that cannot be committed, document:
 
 Do not commit private, restricted, or confidential data.
 
+# Sources
+
+espn_preseason_rankings.csv:
+- https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026
+- 
