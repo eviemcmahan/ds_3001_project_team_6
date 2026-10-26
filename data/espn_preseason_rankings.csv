@@ -98,7 +98,7 @@ season,year,espn_preseason_rank,player,player_key,espn_player_id,height_in,posit
 2021-22,2022,97,Jemarl Baker Jr.,jemarl baker,4278072,77,SG,Jr,Arizona,Fresno State
 2021-22,2022,98,Bryson Williams,bryson williams,4066678,80,PF,Sr,UTEP,Texas Tech
 2021-22,2022,99,Charlie Moore,charlie moore,4066345,71,PG,Sr,DePaul,Miami
-2021-22,2022,100,Cedric Russell,cedric russell,4280257,74,SG,,Louisiana,Ohio State
+2021-22,2022,100,Cedric Russell,cedric russell,4280257,74,SG,Sr,Louisiana,Ohio State
 2022-23,2023,1,Kendric Davis,kendric davis,4397066,71,PG,Sr,SMU,Memphis
 2022-23,2023,2,Nijel Pack,nijel pack,4576062,72,PG,So,Kansas State,Miami
 2022-23,2023,3,Tyrese Hunter,tyrese hunter,4683751,72,PG,Fr,Iowa State,Texas
@@ -133,7 +133,7 @@ season,year,espn_preseason_rank,player,player_key,espn_player_id,height_in,posit
 2022-23,2023,32,Ricky Council IV,ricky council,4701234,78,SG,Fr,Wichita State,Arkansas
 2022-23,2023,33,Jake Stephens,jake stephens,4398257,83,C,Sr,VMI,Chattanooga
 2022-23,2023,34,Noah Carter,noah carter,4431923,78,SF,So,Northern Iowa,Missouri
-2022-23,2023,35,Grant Sherfield,grant sherfield,4431794,74,,Jr,Nevada,Oklahoma
+2022-23,2023,35,Grant Sherfield,grant sherfield,4431794,74,PG,Jr,Nevada,Oklahoma
 2022-23,2023,36,Antonio Reeves,antonio reeves,4592686,78,SG,Jr,Illinois State,Kentucky
 2022-23,2023,37,Terry Roberts,terry roberts,4897444,75,G,Jr,Bradley,Georgia
 2022-23,2023,38,Jalen Graham,jalen graham,4432855,81,PF,Jr,Arizona State,Arkansas
