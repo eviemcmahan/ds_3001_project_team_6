@@ -278,7 +278,7 @@ season,year,espn_preseason_rank,player,player_key,espn_player_id,height_in,posit
 2023-24,2024,77,Jordan Gainey,jordan gainey,4897649,76,SG,So,South Carolina Upstate,Tennessee
 2023-24,2024,78,Javon Small,javon small,4781746,74,PG,So,East Carolina,Oklahoma State
 2023-24,2024,79,Steele Venters,steele venters,4592579,79,F,So,Eastern Washington,Gonzaga
-2023-24,2024,80,Jonathan Pierre,jonathan pierre,-1,81,SF,So,Nova Southeastern (D-II),Memphis
+2023-24,2024,80,Jonathan Pierre,jonathan pierre,,81,SF,So,Nova Southeastern (D-II),Memphis
 2023-24,2024,81,Jalen DeLoach,jalen deloach,4432483,81,C,So,VCU,Georgia
 2023-24,2024,82,Sahvir Wheeler,sahvir wheeler,4431725,69,PG,Sr,Kentucky,Washington
 2023-24,2024,83,Posh Alexander,posh alexander,4433156,72,PG,Jr,St. John's,Butler
@@ -447,7 +447,7 @@ season,year,espn_preseason_rank,player,player_key,espn_player_id,height_in,posit
 2025-26,2026,46,Malik Thomas,malik thomas,4683758,77,SG,Sr,San Francisco,Virginia
 2025-26,2026,47,Michael Rataj,michael rataj,5105627,81,PF,Jr,Oregon State,Baylor
 2025-26,2026,48,Nijel Pack,nijel pack,4576062,72,PG,Sr,Miami,Oklahoma
-2025-26,2026,49,Elyjah Freeman,elyjah freeman,-1,80,SF,Fr,Lincoln Memorial (D-II),Auburn
+2025-26,2026,49,Elyjah Freeman,elyjah freeman,,80,SF,Fr,Lincoln Memorial (D-II),Auburn
 2025-26,2026,50,Obi Agbim,obi agbim,5241273,75,PG,Sr,Wyoming,Baylor
 2025-26,2026,51,Aday Mara,aday mara,5174983,87,C,So,UCLA,Michigan
 2025-26,2026,52,Pharrel Payne,pharrel payne,5105823,81,PF,Jr,Texas A&M,Maryland
@@ -593,7 +593,7 @@ season,year,espn_preseason_rank,player,player_key,espn_player_id,height_in,posit
 2026-27,2027,92,Abdi Bashir Jr.,abdi bashir,5174959,79,SG,Jr,Kansas State,LSU
 2026-27,2027,93,Justin Pippen,justin pippen,5196370,75,PG,So,California,Ohio State
 2026-27,2027,94,Rubén Dominguez,ruben dominguez,5311530,78,SG,So,Texas A&M,Xavier
-2026-27,2027,95,Cole Cloer,cole cloer,-1,79,SF,Fr,NC State,Alabama
+2026-27,2027,95,Cole Cloer,cole cloer,,79,SF,Fr,NC State,Alabama
 2026-27,2027,96,Money Williams,money williams,5177694,76,PG,Jr,Montana,Boston College
 2026-27,2027,97,Jasper Johnson,jasper johnson,5095153,77,G,Fr,Kentucky,Oregon
 2026-27,2027,98,Julius Halaifonua,julius halaifonua,5240524,84,C,So,Georgetown,Oklahoma State
